@@ -1,0 +1,222 @@
+@font-face {
+  font-family: 'faces';
+  src:  url('fonts/faces.eot?pts6fk');
+  src:  url('fonts/faces.eot?pts6fk#iefix') format('embedded-opentype'),
+    url('fonts/faces.ttf?pts6fk') format('truetype'),
+    url('fonts/faces.woff?pts6fk') format('woff'),
+    url('fonts/faces.svg?pts6fk#faces') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'faces' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-flashed-face:before {
+  content: "\e900";
+}
+.icon-flashed-face2:before {
+  content: "\e901";
+}
+.icon-flashed-face-glasses:before {
+  content: "\e902";
+}
+.icon-face-missing-moth:before {
+  content: "\e903";
+}
+.icon-neutral-face:before {
+  content: "\e904";
+}
+.icon-smiling-face:before {
+  content: "\e905";
+}
+.icon-sad-face:before {
+  content: "\e906";
+}
+.icon-face-open-mouth:before {
+  content: "\e907";
+}
+.icon-face-open-mouth2:before {
+  content: "\e908";
+}
+.icon-winking-face:before {
+  content: "\e909";
+}
+.icon-laughing-face:before {
+  content: "\e90a";
+}
+.icon-laughing-face2:before {
+  content: "\e90b";
+}
+.icon-smirking-face:before {
+  content: "\e90c";
+}
+.icon-stubborn-face:before {
+  content: "\e90d";
+}
+.icon-neutral-face2:before {
+  content: "\e90e";
+}
+.icon-sad-face2:before {
+  content: "\e90f";
+}
+.icon-smiling-face2:before {
+  content: "\e910";
+}
+.icon-smiling-face-eyebrows:before {
+  content: "\e911";
+}
+.icon-grinning-face-eyebrows:before {
+  content: "\e912";
+}
+.icon-sad-face-eyebrows:before {
+  content: "\e913";
+}
+.icon-neutral-face-eyebrows:before {
+  content: "\e914";
+}
+.icon-angry-face:before {
+  content: "\e915";
+}
+.icon-worried-face:before {
+  content: "\e916";
+}
+.icon-winking-face2:before {
+  content: "\e917";
+}
+.icon-angry-face-eyebrows:before {
+  content: "\e918";
+}
+.icon-grinning-face:before {
+  content: "\e919";
+}
+.icon-sad-face3:before {
+  content: "\e91a";
+}
+.icon-grinning-face-eyebrows2:before {
+  content: "\e91b";
+}
+.icon-fake-grinning-face-eyebrows:before {
+  content: "\e91c";
+}
+.icon-worried-face-eyebrows:before {
+  content: "\e91d";
+}
+.icon-face-stuck-out-tongue:before {
+  content: "\e91e";
+}
+.icon-face-stuck-out-tongue2:before {
+  content: "\e91f";
+}
+.icon-kissing-face:before {
+  content: "\e920";
+}
+.icon-grinning-face-teeth:before {
+  content: "\e921";
+}
+.icon-angry-face-teeth:before {
+  content: "\e922";
+}
+.icon-worried-face-teeth:before {
+  content: "\e923";
+}
+.icon-grinning-face-teeth2:before {
+  content: "\e924";
+}
+.icon-face-open-mouth-eyebrows:before {
+  content: "\e925";
+}
+.icon-face-open-mouth-eyebrows2:before {
+  content: "\e926";
+}
+.icon-angry-face-open-mouth-eyebrows:before {
+  content: "\e927";
+}
+.icon-unamused-face-tightly-closed-eyes:before {
+  content: "\e928";
+}
+.icon-sad-face--tightly-closed-eyes:before {
+  content: "\e929";
+}
+.icon-kissing-face2:before {
+  content: "\e92a";
+}
+.icon-face-closed-meyes:before {
+  content: "\e92b";
+}
+.icon-amused-face:before {
+  content: "\e92c";
+}
+.icon-amused-face-closed-eyes:before {
+  content: "\e92d";
+}
+.icon-amused-face-closed-eyes2:before {
+  content: "\e92e";
+}
+.icon-face-closed-eyes-open-mouth:before {
+  content: "\e92f";
+}
+.icon-face-closed-eyes-open-mouth2:before {
+  content: "\e930";
+}
+.icon-face-closed-eyes-open-mouth3:before {
+  content: "\e931";
+}
+.icon-laughing-face3:before {
+  content: "\e932";
+}
+.icon-smiling-face3:before {
+  content: "\e933";
+}
+.icon-grinning-face2:before {
+  content: "\e934";
+}
+.icon-sad-face4:before {
+  content: "\e935";
+}
+.icon-sad-face5:before {
+  content: "\e936";
+}
+.icon-sad-face-closed-eyes:before {
+  content: "\e937";
+}
+.icon-sad-face6:before {
+  content: "\e938";
+}
+.icon-smiling-face4:before {
+  content: "\e939";
+}
+.icon-astonished-face:before {
+  content: "\e93a";
+}
+.icon-astonished-face2:before {
+  content: "\e93b";
+}
+.icon-face-moustache:before {
+  content: "\e93c";
+}
+.icon-face-moustache2:before {
+  content: "\e93d";
+}
+.icon-face-glasses:before {
+  content: "\e93e";
+}
+.icon-face-sunglasses:before {
+  content: "\e93f";
+}
+.icon-smirking-face-sunglasses:before {
+  content: "\e940";
+}
+

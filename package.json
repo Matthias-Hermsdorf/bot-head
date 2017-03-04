@@ -1,0 +1,20 @@
+{
+  "name": "robot-head",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthias Hermsdorf",
+  "license": "ISC",
+  "devDependencies": {
+    "koa": "^1.2.4",
+    "koa-static": "^2.0.0",
+    "koa-compress": "^1.0.9"
+  },
+  "port": "3095",
+  "dependencies": {
+    "vue": "^2.2.1"
+  }
+}
