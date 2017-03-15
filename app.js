@@ -1,4 +1,4 @@
-const koa = require('koa.io ');
+const koa = require('koa.io');
 const app = koa();
 const serve = require('koa-static');
 const compress = require('koa-compress');
