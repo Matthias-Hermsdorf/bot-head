@@ -8,13 +8,12 @@
   },
   "author": "Matthias Hermsdorf",
   "license": "ISC",
-  "devDependencies": {
-    "koa": "^1.2.4",
-    "koa-static": "^2.0.0",
-    "koa-compress": "^1.0.9"
-  },
-  "port": "3095",
+  "port": "4004",
   "dependencies": {
+    "koa-static": "^2.0.0",
+    "koa-compress": "^1.0.9",
+    "koa.io": "0.0.3",
+    "my-local-ip": "^1.0.0",
     "vue": "^2.2.1"
   }
 }
